@@ -20,7 +20,9 @@ installer_packages=(
     "fira-code-fonts"
     "wlogout"
     "python3-gobject" 
-    "gtk4"
+    "gtk4",
+    "network-manager-applet",
+    "wlsunset"
 )
 
 # PLEASE NOTE: Add more packages at the end of the following command
